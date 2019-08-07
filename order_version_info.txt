@@ -1,0 +1,18 @@
+**********************************************************
+
+RELEASE NOTE : ESTA offline package v1.0.43 for bst-p-ganges2-kddi branch.
+
+**********************************************************
+
+------------------------------------------------------------
+Copyright(c) 2019 KongLingxing Communications Inc.
+All rights, including trade secret rights, reserved.
+------------------------------------------------------------
+
+[Change Log]
+
+v1.0.01
+    Added the support of Himiko-K1
+
+    The support of Android P, p-ganges2-kddi Himiko-K1 has been added to AST.
+
